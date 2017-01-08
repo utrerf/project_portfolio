@@ -1,0 +1,80 @@
+
+* {
+	font-family: 'Roboto', sans-serif;
+	background-color: #FEFCFF;
+}
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+img {
+	max-width:100%;
+}
+
+div img {
+   display:block;
+   margin:auto;
+}
+.crop_ninja {
+    width: 325px;
+    height: 256px;
+    overflow: hidden;
+}
+.crop_featured {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+}
+.crop_logo {
+    width: 175px;
+    height: 115px;
+    overflow: hidden;
+}
+.right {
+	position: relative;
+	right: 0%;
+}
+.row {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}
+.col-1 {
+	width: 8.33%;
+}
+.col-2 {
+	width: 16.66%;
+}
+.col-3 {
+	width: 25%;
+}
+.col-4 {
+	width: 33.33%;
+}
+.col-5 {
+	width: 41.66%;
+}
+.col-6 {
+	width: 50%;
+}
+.col-7 {
+	width: 63.33%;
+}
+.col-8 {
+	width: 71.66%;
+}
+.col-9 {
+	width: 75%;
+}
+.col-10 {
+	width: 83.33%;
+}
+.col-11 {
+	width: 91.66%;
+}
+.col-12 {
+	width: 100%;
+}
